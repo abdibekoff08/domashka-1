@@ -1,0 +1,36 @@
+h1 {
+    color: rgb(28, 68, 37);
+    text-align: center;
+    background-color: rgb(180, 189, 171);
+}
+
+img {
+    width: 200px;
+    height: 300px;
+    display: block; 
+    margin: 0 auto;
+}
+
+
+.film_name {
+    color: rgb(19, 19, 65);
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.films {
+    background-image: url(../Domashka-1/images/bg.jpg);
+}
+
+.film_text {
+    color: rgba(19, 16, 17, 0.795);
+    font-size: 20px;
+    text-align: center;
+}
+
+.film {
+    border-style: solid;
+    border-radius: 4%;
+    border-color: rgb(160, 138, 138);
+}
